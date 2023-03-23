@@ -1,4 +1,4 @@
-## Oi eu sou o Kauan Morinel Calheiro, estudante de Engenharia da Computação e de Programação!
+## Oi eu sou o Kauan Morinel Calheiro, estudante de Engenharia de Software e de Programação!
 
 <div align="center">
   <a href="https://github.com/KauanCalheiro">
