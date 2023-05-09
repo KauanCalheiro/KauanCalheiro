@@ -4,7 +4,7 @@
   <a href="https://github.com/KauanCalheiro">
  <!-- <img height="auto" src="https://github-readme-stats.vercel.app/api?username=KauanCalheiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"
   style="max-width: 50%;"/> -->
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCalheiro&layout=compact&langs_count=7&theme=chartreuse-dark"
+  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCalheiro&layout=compact&langs_count=7&theme=vue"
   style="max-width: 100%;"/>
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -27,7 +27,7 @@
   <a href="https://instagram.com/kauanmcalheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kauan.calheiro@universo.univates.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauan-morinel-calheiro-b3ab2222b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
  
 </div>
