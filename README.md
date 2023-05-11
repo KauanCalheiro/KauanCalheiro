@@ -1,35 +1,32 @@
-## Oi eu sou o Kauan Morinel Calheiro, estudante de Engenharia de Software e de Programação!
+<h1 align="center">Oi eu sou o Kauan Morinel Calheiro, estudante de Engenharia de Software e de Programação!</h1>
+
+<h2 align="center">Site curriculo: https://kauancalheiro.github.io/ProjetoDestaque/</h1>
 
 <div align="center">
   <a href="https://github.com/KauanCalheiro">
- <!-- <img height="auto" src="https://github-readme-stats.vercel.app/api?username=KauanCalheiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"
-  style="max-width: 50%;"/> -->
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCalheiro&layout=compact&langs_count=7&theme=vue"
   style="max-width: 100%;"/>
 </div>
+
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kauan-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kauan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Kauan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+
+  <img align="center" alt="Kauan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Kauan-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Kauan-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Kauan-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Kauan-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <!--
   <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   -->
-  <img align="center" alt="Kauan-PostgresSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Kauan-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  
+  <img align="center" alt="Kauan-PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Kauan-GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+
 </div>
-  
-  ##
  
 <div align = "center"> 
-  <a href="https://instagram.com/kauanmcalheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!--
-  <a href = "mailto:kauan.calheiro@universo.univates.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
--->
-  <a href="https://www.linkedin.com/in/kauan-morinel-calheiro-b3ab2222b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>
+  <a href="https://www.linkedin.com/in/kauan-morinel-calheiro-b3ab2222b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 </div>
