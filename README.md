@@ -1,4 +1,4 @@
-<h1 align="center">Oi eu sou o Kauan Morinel Calheiro, estudante de Engenharia de Software e de Programação!</h1>
+<h1 align="center">Oçá, sou Kauan Morinel Calheiro, estudante de Engenharia de Software e de Programação!</h1>
 
 <h2 align="center">Site curriculo: https://kauancalheiro.github.io/ProjetoDestaque/</h1>
 
