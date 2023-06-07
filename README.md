@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Kauan Morinel Calheiro, estudante de Engenharia de Software e de Programação!</h1>
 
-<h2 align="center">Site curriculo: https://kauancalheiro.github.io/ProjetoDestaque/</h1>
+<h2 align="center">Site curriculo: https://kauancalheiro.github.io/Curriculo/</h1>
 
 <div align="center">
   <a href="https://github.com/KauanCalheiro">
