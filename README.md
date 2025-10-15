@@ -7,7 +7,7 @@
   </a>
 </h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; justify-items: center; align-items: center; margin-top: 20px;">
+<div style="margin-top: 20px;">
 
 <img class='badge' style="margin: 10px" alt="Kauan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img class='badge' style="margin: 10px" alt="Kauan-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
